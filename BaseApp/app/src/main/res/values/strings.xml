@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="strBtnWKU">Open WKU Homepage</string>
+    <string name="strBtn911">Call 911 Emergency</string>
+    <string name="strBtnGallery">Open Gallery</string>
+    <string name="strBtnExit">Exit App</string>
+</resources>

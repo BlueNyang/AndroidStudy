@@ -1,0 +1,11 @@
+<resources>
+    <string name="strActionBar">Simple Calculator</string>
+    <string name="strEditText1">Num 1</string>
+    <string name="strEditText2">Num 2</string>
+    <string name="strButton1">Add</string>
+    <string name="strButton2">Subtract</string>
+    <string name="strButton3">Multiply</string>
+    <string name="strButton4">Divide</string>
+    <string name="strTextView1">Result: </string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonApp</string>
+    <string name="strBtn">Button 1</string>
+    <string name="strTxtView">This is a TextView</string>
+    <string name="strEditText">This is an EditText</string>
+    <string name="strBtn2">Button 2</string>
+    <string name="appTitle">ButtonApp - GyuTae Ahn</string>
+</resources>

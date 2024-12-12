@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Version</string>
+    <string name="strText1">Start Choice?</string>
+    <string name="strSW1">Started</string>
+    <string name="strText2">Select Android Version</string>
+    <string name="strRB1">S(12.0)</string>
+    <string name="strRB2">T(13.0)</string>
+    <string name="strRB3">U(14.0)</string>
+    <string name="strBtnExit">Exit</string>
+    <string name="strBtnBack">Go to Start</string>
+    <string name="strImageView">Image</string>
+</resources>
